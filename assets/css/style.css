@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("https://te.legra.ph/file/6ac1fc914ecb0e73fd50d.mp4") top right no-repeat;
+  background: #040404 url("https://tenor.com/4Ei1.gif") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
