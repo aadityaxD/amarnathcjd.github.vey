@@ -945,7 +945,7 @@ section .container {
 
 @media (max-width: 992px) {
   .portfolio-details .portfolio-info {
-    padding-top: 15px 0 0 0;
+    padding-top: 20px;
   }
 }
 
